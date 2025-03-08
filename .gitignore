@@ -1,0 +1,5 @@
+nltk_data/
+example.txt
+__pycache__/
+.ipynb_checkpoints
+.idea
